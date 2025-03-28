@@ -62,8 +62,8 @@ module.exports = {
       msg += `\n🫧𝘽𝙊𝙏 𝙉𝘼𝙈𝙀🫧:🎭𝘛ₒₓᵢ𝚌ᵢ𝚝ₑᵣ⭕`;
       msg += `\n🔹 𝘽𝙊𝙏 𝙊𝙒𝙉𝙀𝙍 🔹`;
       msg += `\n 	 					`;
-      msg += `\n~𝙉𝘼𝙈𝙀:✰ 𝙃𝘼𝙎𝘼𝙉 ✰`;
-      msg += `\n~𝙁𝘽:https://www.facebook.com/Itz.HaSaN.00`;
+      msg += `\n~𝙉𝘼𝙈𝙀:✰ Munna ✰`;
+      msg += `\n~𝙁𝘽:https://www.facebook.com/Md.Munna.1437`;
 
       await message.reply({
         body: msg,
