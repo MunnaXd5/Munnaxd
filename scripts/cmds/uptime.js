@@ -47,7 +47,7 @@ module.exports = {
 🔥 Active Threads: ${activeThreads}
 📨 Total Messages: ${totalMessages}
 ━━━━━━━━━━━━━━━━━━━
-💡|H_A_S_A_N_S__B_O_T|
+💡|M_U_N_N_A_S__B_O_T|
       `;
 
       api.sendMessage(message.trim(), event.threadID);
