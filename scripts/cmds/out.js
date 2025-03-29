@@ -20,9 +20,9 @@ module.exports = {
 		}
  },
 	onStart: async function ({ api, args, message, event }) {
-		const permission = ["100068909067279"];
+		const permission = ["61573774551498"];
   if (!permission.includes(event.senderID)) {
-    api.sendMessage("Amare bahir korar tui k?!🐸.", event.threadID, event.messageID);
+    api.sendMessage("Munna boss bade keo amk bair korte parbo na?!.", event.threadID, event.messageID);
     return;
   }
 
